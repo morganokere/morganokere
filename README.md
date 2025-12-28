@@ -1,50 +1,83 @@
-## <div class="color: blue" align="center"> 👋 Hi, I’m Precious Morgan Okere </div>
+# 👋 Hi, I’m Precious Morgan Okere
 
-<div class="color: blue" align="center">
- <h3>
-   <b>
-     A Full-Stack Software Developer
-   </b>
- </h3>
-</div>
+🚀 **FinTech Software Engineer | AI & Machine Learning Enthusiast | Blockchain Researcher**
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</div>
+I build **scalable, data-driven financial systems** and explore how **AI, ML, and Blockchain** are transforming modern financial infrastructure — from digital payments to banking and decentralized finance.
 
+---
 
-# 🧔🏻‍♂️ About Me:
+## 🧠 About Me
 
-- 👨🏻‍🎓 Certified Full-Stack Developer.
-- 💡 I’m interested in Full-Stack Software Engineering.
-- 🚀 I’m currently learning C Programmming || Python || Laravel 9.0 Framework
-- 🤝 I’m looking to collaborate on revolutionary projects.
-- 💼 Available and efficient in any mode of work - on site, remote or hybrid.
-- 📫 How to reach me 👉 const myContact = { Email: 'preciousokere.mc@gmail.com' }
+- 🎓 **MSc FinTech (Distinction)** — Research focus on **Blockchain-based CBDCs & Commercial Banking**
+- 💻 **Full-Stack Software Developer** with strong backend foundations
+- 🤖 Interested in **AI/ML applications in Finance** (risk, fraud, credit scoring, automation)
+- 🔗 Passionate about **Blockchain, Digital Payments & Financial Inclusion**
+- 🤝 Open to **collaborations, internships, research, and junior–mid roles**
+- 🌍 Available for **remote, hybrid, or on-site opportunities**
 
+---
 
-# 👨🏻‍💻 Languages & Tools:
+## 🏗️ Core Technical Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,html,css,bootstrap,c,react,python" />
-  </a>
-</p>
+### 💡 Programming & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,java,mysql,postman,laravel" />
-  </a>
-</p>
+### 🧠 AI / Data / ML (Growing)
+- Python for Data Analysis
+- NumPy • Pandas • Matplotlib
+- Machine Learning fundamentals
+- Financial data modeling & analysis
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,github,figma,angular,photoshop" />
-  </a>
-</p>
+### 🌐 Frontend
+- HTML • CSS • Bootstrap
+- JavaScript (DOM, UI logic)
 
+### 🗄️ Databases & Tools
+- MySQL
+- Git & GitHub
+- Linux / Bash
+- REST APIs
 
-<!---
-realmorgan/realmorgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💼 Featured Projects
+
+### 💳 **Financial Web Applications**
+- **Payroll Management System**
+- **Credit / Financial Service Web App**
+- **Result Grading & Evaluation Systems**
+
+### 🔐 **Systems & Low-Level Programming**
+- Shell scripting & system automation
+- C programming (memory, performance, foundations)
+
+### 🧪 **Learning & Experimental Work**
+- Facebook UI clone
+- Backend system demos
+- Algorithm & logic-focused projects
+
+---
+
+## 📊 Research & Interests
+
+- 🏦 Central Bank Digital Currencies (CBDCs)
+- 🔗 Blockchain in Financial Systems
+- 🤖 AI-driven Financial Decision Systems
+- 📉 Credit Risk, Fraud Detection & Automation
+- 🌍 Financial Inclusion through Technology
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 **Email:** preciousokere.mc@gmail.com
+- 💼 **GitHub:** https://github.com/morganokere
+- 🤝 Open to collaboration, mentorship, and FinTech research
+
+---
+
+⭐ _If you find my work interesting, feel free to star or connect!_
