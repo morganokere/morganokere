@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Precious Morgan Okere
+## 👋 Hi, I’m Precious Morgan Okere
 
 🚀 **FinTech Software Engineer | AI & Machine Learning Enthusiast | Blockchain Researcher**
 
