@@ -29,6 +29,14 @@ I build **scalable, data-driven financial systems** and explore how **AI, ML, an
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)
+![Blockchain](https://img.shields.io/badge/Blockchain-000?style=for-the-badge&logo=blockchaindotcom)
+![Ethereum](https://img.shields.io/badge/Ethereum-000?style=for-the-badge&logo=ethereum)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-000?style=for-the-badge&logo=ethereum)
+![Web3](https://img.shields.io/badge/Web3-000?style=for-the-badge&logo=web3dotjs)
 
 ### 🧠 AI / Data / ML (Growing)
 - Python for Data Analysis
