@@ -13,7 +13,7 @@ I build **scalable, data-driven financial systems** and explore how **AI, ML, an
 ## 🧠 About Me
 
 - 🎓 **MSc FinTech (Distinction)** — Research focus on **Blockchain-based CBDCs & Commercial Banking**
-- ☁️ **Microsoft Azure AI Fundamentals (AI-900)** - Foundations of Artificial Intelligence & Machine Learning
+- ☁️ **Microsoft Certified: Azure AI Fundamentals (AI-900)** - Foundations of Artificial Intelligence & Machine Learning
 - 💻 **Full-Stack Software Developer** with strong backend foundations
 - 🤖 Interested in **AI/ML applications in Finance** (risk, fraud, credit scoring, automation)
 - 🔗 Passionate about **Blockchain, Digital Payments & Financial Inclusion**
