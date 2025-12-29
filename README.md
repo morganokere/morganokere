@@ -3,7 +3,7 @@
 🚀 **FinTech Software Engineer | AI & Machine Learning Enthusiast | Blockchain Researcher**
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3p0Z2c2dGE2eGlnOWRzbGVyZ29zOWJoZzduMWU2bjhwNXN1bDB6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3Vca26EaTIEU/giphy.gif" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHR5OXFwd2U1ZGdrMmp0cmF1MGZ2ZnVoODd6eWJ4OWw4NnQwdzY3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" width="100%" />
 </div>
 
 I build **scalable, data-driven financial systems** and explore how **AI, ML, and Blockchain** are transforming modern financial infrastructure — from digital payments to banking and decentralized finance.
