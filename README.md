@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Precious Morgan Okere
 
-🚀 **FinTech Software Engineer | AI & Machine Learning Enthusiast | Blockchain Researcher**
+🚀 **FinTech Software Engineer | Blockchain Researcher | AI & Machine Learning Enthusiast**
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHR5OXFwd2U1ZGdrMmp0cmF1MGZ2ZnVoODd6eWJ4OWw4NnQwdzY3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif" width="100%" />
